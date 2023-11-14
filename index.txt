@@ -5,3 +5,4 @@ System.setProperty("webdriver.chrome.driver","C:\\Users\\aravindh\\eclipse-works
 		driver.get("https://www.google.com/");
 		WebElement search=driver.findElement(By.id("APjFqb"));
 		search.sendKeys("Java");
+bye bye
